@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../Data/dummy_data.dart';
 
 class CartProvider extends ChangeNotifier {
